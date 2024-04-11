@@ -1,0 +1,65 @@
+.menu{
+      background-color: rgba(74, 164, 199, 0.432) !important;
+      padding: 10px;
+}
+.danmenu{
+      font-size: 20px;
+      font-weight: 600;
+}
+.TopHeader{
+      background-image: url(../images/img.jpg);
+      min-height: 550px;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+}
+.over{
+      min-height: 550px;
+      width: 100%;
+      position: absolute;
+      background-color: rgba(0, 0, 1, 0.199);
+
+}
+.topcontent{
+      margin-top: 300px;
+}
+.toptitle{
+      color: aqua;
+      font-family: poppins;
+}
+.subtitle{
+      color: aqua;
+}
+
+.bgrnd{
+      background-color: rgba(105, 105, 105, 0.349);
+      min-height: 600px;
+}
+
+.black{
+      font-size: 50px;
+      font-weight: 800;
+}
+
+.info{
+     color: aqua; 
+}
+
+.card{
+     
+      border-radius: 10%;
+    box-shadow: 10px 10px 10px 4px rgba(16, 175, 224, 0.753);
+}
+
+.icons{
+      width: 120px;
+      height: 140px;
+      color: aqua;
+      
+}
+.title{
+      font-size: 25px;
+      font-weight: 700;
+}
+
